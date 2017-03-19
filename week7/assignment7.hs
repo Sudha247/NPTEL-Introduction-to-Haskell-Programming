@@ -1,4 +1,3 @@
-import System.IO
 import Data.List
 
 largestPower :: Int -> Int -> Int
